@@ -1,0 +1,10 @@
+package Basics;
+
+public class helloworld {
+	public static void main(String args[])
+	{
+		System.out.println("Java is developing skill");
+	}
+
+
+}
